@@ -8,9 +8,6 @@
 
 ---
 
-## 👩‍💼 About Me
-
-I am an **organized and dependable** professional with a background in **Human Resource Management**. I am skilled at managing multiple priorities with a positive attitude. I am currently seeking opportunities in a multinational or local organization where I can apply my educational background and skills, while further developing my expertise in the field.
 
 ---
 
