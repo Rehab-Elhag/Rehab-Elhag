@@ -19,26 +19,17 @@
 
 ---
 
-## 🛠 Skills
-
-### 💻 **Computer Skills**
-- Proficient in MS Office
-- Good knowledge of the Internet
 
 ### 🌐 **Languages**
 - **Arabic**: Native  
 - **English**: Very good command (written and spoken)
 
-### 🤝 **Personal Skills**
-- Teamwork
-- Communication Skills
 
 ---
 
 ## 📜 Certifications
 - **Data Analysis Fundamentals** - 2023  
 - **R12i ORACLE E-Business Suite [HRMS]** - 2014  
-- **Human Resources Management Specialist Diploma** - 2009  
 - **MCDBA (Database Administration)** - 2009
 
 ---
